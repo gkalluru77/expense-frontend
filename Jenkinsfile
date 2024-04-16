@@ -1,4 +1,4 @@
-@Library('gdevops-library@1.0') _
+@Library('gdevops-library') _
 
 ci()
 
